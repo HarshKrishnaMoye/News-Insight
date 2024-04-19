@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times" 
+        },
+        "author": "HT Sports Desk",
+        "title": "Dinesh Karthik's match-winning hits in last over of RCB vs PBKS IPL match makes Virat Kohli jump out of his seat - Hindustan Times",
+        "description": "Virat Kohli was left jumping in excitement as Dinesh Karthik wrapped up proceedings for RCB, in a thrilling final over win against PBKS in IPL 2024. | Cricket",
+        "url": "https://www.hindustantimes.com/cricket/dinesh-karthiks-match-winning-hits-in-last-over-of-rcb-vs-pbks-ipl-match-makes-virat-kohli-jump-out-of-his-seat-101711390654004.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/25/1600x900/kohli_karthik_1711390764641_1711390764821.jpeg",
+        "publishedAt": "2024-03-26T01:14:42Z",
+        "content": "Royal Challengers Bangalore bounced back to winning ways with a thrilling four-wicket victory against Punjab Kings in their second IPL 2024 fixture on Monday, in Bengaluru. Chasing 177 runs, Dinesh K… [+2426 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Betfair.com"
+        },
+        "author": "Betting.betfair",
+        "title": "Chennai Super Kings v Gujarat Titans IPL Tips: Dube a dude in CSK win - Betting.betfair",
+        "description": null,
+        "url": "https://betting.betfair.com/cricket/indian-premier-league---ipl/chennai-super-kings-v-gujarat-titans-ipl-tips-dube-a-dude-in-csk-win-250324-194.html",
+        "urlToImage": null,
+        "publishedAt": "2024-03-25T15:33:14Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Free Press Journal"
+        },
+        "author": "Hrishikesh Damodar",
+        "title": "'F*** Off': Shubman Gill's Aggressive Send-Off To Hardik Pandya In GT vs MI IPL 2024 Clash, Viral Video - Free Press Journal",
+        "description": "Hardik Pandya put the pressure on Gujarat Titans as he smashed a six and a four off Umesh Yadav, bringing the equation down to 9 off 4 balls from 19 off six balls in the final over.",
+        "url": "https://www.freepressjournal.in/sports/f-off-shubman-gills-aggressive-send-off-to-hardik-pandya-in-gt-vs-mi-ipl-2024-clash-viral-video",
+        "urlToImage": "https://media.assettype.com/freepressjournal/2024-03/ad5a53d5-6eb8-4936-82ea-8fcd5bd46f6a/FotoJet__11_.jpg",
+        "publishedAt": "2024-03-25T10:46:34Z",
+        "content": "Gujarat Titans captain Shubman Gill gave an aggressive send-off to Mumbai Indians skipper Hardik Pandya during the thrilling clash between two teams at Narendra Modi Stadium in Ahmedabad on Sunday, M… [+2344 chars]"
+      }
+    ]
+  }
